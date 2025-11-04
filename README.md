@@ -46,7 +46,7 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dyvillexz007&theme=default&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Z4nzu&theme=default&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
 </p>
 
 <p align="center">
