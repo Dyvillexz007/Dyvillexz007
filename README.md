@@ -43,11 +43,8 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align"=center">
-<img scr="https://github-readme-stats.vercel.app/api?username=Dyvillexz007&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dyvillexz007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dyvillexz007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyvillexz007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
