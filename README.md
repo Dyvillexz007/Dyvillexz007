@@ -59,7 +59,7 @@
 
 ---
 <p align=center">
-<img src="https://visitcount.itsvg.in/api?id=Dyvillexz007&icon=0&color=0)](https://visitcount.itsvg.in=true"/>
+<img src="https://visitcount.itsvg.in/api?id=Dyvillexz007&icon=0&color=0)](https://visitcount.itsvg.in)"/>
 </p> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
