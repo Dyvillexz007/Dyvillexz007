@@ -99,7 +99,6 @@ ___________________
   <img src="https://github-contributor-stats.vercel.app/api?username=Dyvillexz007&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
-<div align="center">
 Current activities 
 - 👨‍💻 I am Not a Programmer
 - 🌱 I am currently learning JavaScript
@@ -107,4 +106,3 @@ Current activities
 - 📧 My Business Email voidxcode666@gmail.com
 - 💰 Donate For Me [Saweria](https://saweria) 
     
-</div>
