@@ -15,16 +15,16 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/hardikzinzu">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://medium.com/@hardikzinzu">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://Dyvillexz007.com" target="_blank">
+  <a href="https://hardikzinzu.com" target="_blank">
   	<img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
-  <a href="https://discuss.frappe.io/u/Dyvillexz_Dev" target="_blank">
+  <a href="https://discuss.frappe.io/u/hardik_zinzu" target="_blank">
      <img src="https://img.shields.io/badge/Frappe%20Discuss-%230A7EC2.svg?style=for-the-badge&logo=frappe&logoColor=white"/>
   </a>
 </p>
@@ -42,16 +42,30 @@
 </div>
 
 ---
-# 📊 GitHub Stats:
-<p align=center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dyvillexz007&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
+
+## 📊 GitHub Stats:
+<p align"=center">
+<img scr="https://github-readme-stats.vercel.app/api?username=Dyvillexz007&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
 </p>
 
+![](https://nirzak-streak-stats.vercel.app/?user=Dyvillexz007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyvillexz007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Dyvillexz007&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
-## 🔝 Top Contributed Repo
-
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Dyvillexz007&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Z4nzu&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+## 🔝 Top Contributed Repos
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Z4nzu&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
