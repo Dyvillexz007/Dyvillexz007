@@ -58,8 +58,9 @@
 </p>
 
 ---
-
-https://visitcount.itsvg.in/api?id=Dyvillexz007&icon=0&color=0)](https://visitcount.itsvg.in
+<p align"=center">
+  <img scr=https://visitcount.itsvg.in/api?id=Dyvillexz007&icon=0&color=0)](https://visitcount.itsvg.in"height="180"/>
+</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
