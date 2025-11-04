@@ -57,7 +57,8 @@
 
 ---
 
-<h2 align="center"> 💻 Tech Stack
+<h2 align="center"> 
+    💻 Tech Stack
 
 <div align="center">
   
@@ -97,3 +98,12 @@ ___________________
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Dyvillexz007&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
+
+<div align="center">
+### Current activities 
+- 👨‍💻 I am Not a Programmer
+- 🌱 I am currently learning JavaScript
+- 🎯 Play Genshin Impact With Me? ID 90616003858
+- 📧 My Business Email voidxcode666@gmail.com
+- 💰 Donate For Me [Saweria](https://saweria) 
+</div>
