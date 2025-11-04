@@ -36,7 +36,10 @@
   <a name=DyvillexzDev&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
-🌐 Connect with Me
+<h2 align="center">
+    🌐 Connect with Me
+
+    
     <h2 align="center">
   <a href="https://linkedin.com/in/hardikzinzu">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
