@@ -100,10 +100,11 @@ ___________________
 </p>
 
 <div align="center">
-### Current activities 
+Current activities 
 - 👨‍💻 I am Not a Programmer
 - 🌱 I am currently learning JavaScript
 - 🎯 Play Genshin Impact With Me? ID 90616003858
 - 📧 My Business Email voidxcode666@gmail.com
 - 💰 Donate For Me [Saweria](https://saweria) 
+    
 </div>
