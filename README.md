@@ -23,7 +23,7 @@
     </a>
 </div>
 
-### Connect with me ☎️
+<h2 align="center"> Connect with me ☎️
 <h4 align="center">Visitor's Count :</h4>
 <p align="center"><img src="https://count.getloli.com/get/@DyvillexzDev-github-readme?theme=rule34" /></p>
 <p align="center">
