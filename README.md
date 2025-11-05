@@ -41,16 +41,16 @@
 
     
    <h2 align="center">
-  <a href="https://linkedin.com/in/hardikzinzu">
+  <a href="https://linkedin.com/in/Dyvillexz007">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@hardikzinzu">
+  <a href="https://medium.com/@Dyvillexz007">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://hardikzinzu.com" target="_blank">
+  <a href="https://Dyvillexz007.com" target="_blank">
   	<img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
-  <a href="https://discuss.frappe.io/u/hardik_zinzu" target="_blank">
+  <a href="https://discuss.frappe.io/u/Dyvillexz007" target="_blank">
      <img src="https://img.shields.io/badge/Frappe%20Discuss-%230A7EC2.svg?style=for-the-badge&logo=frappe&logoColor=white"/>
   </a>
 </p>
